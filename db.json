@@ -1,0 +1,111 @@
+{
+	"users":[
+		{
+			"id":1,
+			"name":"Victor",
+			"surname":"Vacarciuc",
+			"photo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL2FQ72FWEtzxniuTGYHMNDjFiJ0p2ULQELg&s",
+			"balance":1500
+
+		},
+		{
+			"id":2,
+			"name":"Andrei",
+			"surname":"Mustafeco",
+			"photo_url":"https://cdn.creazilla.com/icons/7915246/male-icon-sm.png",
+			"balance":2500
+
+		},
+		{
+			"id":3,
+			"name":"Alex",
+			"surname":"Popa",
+			"photo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK5zBl8h0MsaBn6DCwTZLz9qVRy3EaeK_Neg&s",
+			"balance":1800
+
+		}
+	],
+	"products":[
+		{
+			"id":1,
+			"name":"RTX 4060 Ti",
+			"description":"Placa video",
+			"price":8000,
+			"author_id":1,
+			"photo_url":"https://xstore.md/images/product/2023/06/xstore.md-Plac%C4%83-video-Gigabyte-RTX-4060-Ti-Gaming-OC-(1).png"
+		},
+		{
+			"id":2,
+			"name":"RTX 3050 Dual OC 6 GB",
+			"description":"Placa video",
+			"price":4459,
+			"author_id":3,
+			"photo_url":"https://darwin.md/media/608856/conversions/darwin-placa-video-asus-geforce-rtx-3050-dual-oc-6-gb-449632-preview-webp.png"
+		},
+		{
+			"id":3,
+			"name":"RTX 5090 GAMING OC 32 GB",
+			"description":"Placa video",
+			"price":55379,
+			"author_id":2,
+			"photo_url":"https://darwin.md/media/760832/conversions/eoyvtjxz4k_1744618757445-preview-webp.png"
+		},
+		{
+			"id":4,
+			"name":"RTX5060 Ti Dual OC Edition 8 GB",
+			"description":"Placa video",
+			"price":10999,
+			"author_id":1,
+			"photo_url":"https://darwin.md/media/779111/conversions/vp1stnb6kl_1748510023721-preview-webp.png"
+		},
+		{
+			"id":5,
+			"name":"RTX 5060 EAGLE OC 8 GB",
+			"description":"Placa video",
+			"price":8599,
+			"author_id":2,
+			"photo_url":"https://darwin.md/media/805533/conversions/h7vbd5nnw6_1755593580142-preview-webp.png"
+		},
+		{
+			"id":6,
+			"name":"Radeon RX 7600 8 GB",
+			"description":"Placa video",
+			"price":6449,
+			"author_id":3,
+			"photo_url":"https://darwin.md/media/573131/conversions/darwin-placa-video-sapphire-radeon-rx-7600-8-gb-331384-preview-webp.png"
+		},
+		{
+			"id":7,
+			"name":"RTX 3050 DUAL OC V2 8 GB",
+			"description":"Placa video",
+			"price":5699,
+			"author_id":1,
+			"photo_url":"https://darwin.md/media/554179/conversions/darwin-placa-video-asus-geforce-rtx-3050-dual-oc-v2-8-gb-286404-preview-webp.png"
+		},
+		{
+			"id":8,
+			"name":"RTX 3050 VENTUS 2X XS OC 8 GB",
+			"description":"Placa video",
+			"price":5449,
+			"author_id":3,
+			"photo_url":"https://darwin.md/media/578063/conversions/placa-video-msi-geforce-rtx-3050-ventus-2x-xs-oc-8-gb-342593-preview-webp.png"
+		},
+		{
+			"id":9,
+			"name":"GeForce GTX1660 Ti 6 GB",
+			"description":"Placa video",
+			"price":4649,
+			"author_id":2,
+			"photo_url":"https://darwin.md/media/565378/conversions/darwin-placa-video-biostar-geforce-gtx1660-ti-6-gb-316596-preview-webp.png"
+		},
+		{
+			"id":10,
+			"name":"RTX 5060 Ti GAMING OC 8 GB",
+			"description":"Placa video",
+			"price":11459,
+			"author_id":1,
+			"photo_url":"https://darwin.md/media/829825/conversions/e2ekdpklks_1761661310335-preview-webp.png"
+		}
+	]
+	
+}
